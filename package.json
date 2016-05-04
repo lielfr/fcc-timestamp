@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lielfr/fcc-timestamp/issues"
   },
-  "homepage": "https://github.com/lielfr/fcc-timestamp#readme"
+  "homepage": "https://github.com/lielfr/fcc-timestamp#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "strftime": "^0.9.2"
+  }
 }
