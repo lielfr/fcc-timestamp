@@ -1,0 +1,19 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "My solution for Free Code Camp's Timestamp project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lielfr/fcc-timestamp.git"
+  },
+  "author": "Liel Fridman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lielfr/fcc-timestamp/issues"
+  },
+  "homepage": "https://github.com/lielfr/fcc-timestamp#readme"
+}
